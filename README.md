@@ -1,2 +1,2 @@
 # ReactLearn6
-Created with CodeSandbox
+Inline Styling for React Elements
